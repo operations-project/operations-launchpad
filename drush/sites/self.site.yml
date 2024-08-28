@@ -17,4 +17,4 @@
 # drush @testing.booster.local.computer
 "*":
   uri: "${env-name}"
-  root: web
+  root: /var/www/html
