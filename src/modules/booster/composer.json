@@ -1,0 +1,11 @@
+{
+    "name": "drupal/booster",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "Jon Pugh",
+            "email": "jon@thinkdrop.net"
+        }
+    ],
+    "require": {}
+}

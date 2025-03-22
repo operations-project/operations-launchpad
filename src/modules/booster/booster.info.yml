@@ -1,0 +1,5 @@
+name: 'booster'
+type: module
+description: 'Launch into space.'
+package: Starshot
+core_version_requirement: ^10 || ^11
